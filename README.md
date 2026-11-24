@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24502739.svg)](https://doi.org/10.5281/zenodo.24502739)
+
 <p align="center">
   <img src="icon.png" width="96" alt="Webcam Eye Tracker icon">
 </p>
