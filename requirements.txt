@@ -1,0 +1,9 @@
+flask>=3.0
+# MediaPipe requires opencv-contrib-python; list that one (not opencv-python)
+# so two packages don't both try to provide the `cv2` module.
+opencv-contrib-python>=4.9
+mediapipe>=0.10.14
+numpy>=1.24
+pandas>=2.0
+mss>=9.0
+pynput>=1.7
